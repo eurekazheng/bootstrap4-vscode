@@ -1,10 +1,10 @@
 {
-  "name": "bootstrap4-vscode",
-  "displayName": "Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets",
+  "name": "bootstrap4-pro-vscode",
+  "displayName": "Bootstrap 4 Snippets Pro",
   "description": "Bootstrap 4 snippets based on documentation + Font awesome 4 + Font Awesome 5 Free & Pro snippets",
-  "icon": "bootstrap_128px.png",
-  "version": "4.3.0",
-  "publisher": "thekalinga",
+  "icon": "icon.jpg",
+  "version": "0.0.1",
+  "publisher": "eurekazheng",
   "license": "See License section in README.md",
   "homepage": "https://github.com/thekalinga/bootstrap4-vscode/blob/master/README.md",
   "repository": {
