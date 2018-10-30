@@ -917,6 +917,12 @@
     "description" : "grid row",
     "scope" : ""
   },
+  "grid namecard row" : {
+    "prefix" : "b4-grid-namecard-row",
+    "body" : "<div class=\"row\">\n\t<div class=\"col-sm-3\">\n\t\t<img class=\"rounded-circle w-100\" src=\"img/ambassadors/$1.jpg\" alt=\"$2\">\n\t</div>\n\t<div class=\"col-sm-9\">\n\t\t<span class=\"namecard-title\">$3</span>\n\t\t<span class=\"namecard-wechat\">| WeChat ID: $4</span>\n\t<p class=\"namecard-major\">$5</p>\n\t<p>\n\t\t$6\n\t</p>\n\t</div>\n</div>",
+    "description" : "grid namecard row",
+    "scope" : ""
+  },
   "media bottom" : {
     "prefix" : "b4-media-bottom",
     "body" : "<div class=\"media\">\n\t<a class=\"d-flex align-self-bottom\" href=\"${1:#}\">\n\t  \t<img src=\"$2\" alt=\"$3\">\n\t</a>\n\t<div class=\"media-body\">\n\t\t<h5>${4:Media heading}</h5>\n\t\t<p>${5:Media text}</p>\n\t</div>\n</div>$0",
